@@ -208,9 +208,9 @@ class RobustJsonManager:
 class AccessControl:
     ROLES = {
         "owner": {"priority": 100, "can_admin": True, "can_check": True},
-        "admin": {"priority": 50, "can_admin": True, "can_check": True},
-        "premium": {"priority": 10, "can_admin": False, "can_check": True},
-        "user": {"priority": 1, "can_admin": False, "can_check": True},
+        "admin": {"priority": 100, "can_admin": True, "can_check": True},
+        "premium": {"priority": 100, "can_admin": False, "can_check": True},
+        "user": {"priority": 70, "can_admin": False, "can_check": False},
     }
     
     def __init__(self):
@@ -826,7 +826,6 @@ async def plan_handler(update: Update, context: CallbackContext):
     try:
         plan_text = (
             "💰 *Premium Plans*\n\n"
-            "⭐ *7 Days* — `5 USD`\n"
             "📈 Unlimited checks\n"
             "🚀 Priority queue\n"
             "📊 Advanced stats\n\n"
@@ -1023,7 +1022,6 @@ async def support_handler(update: Update, context: CallbackContext):
     try:
         support_text = (
             "🆘 *Support Center*\n\n"
-            "📧 Email: `support@example.com`\n"
             "💬 Telegram: @Marcusssofficial\n"
             "📌 Response Time: `Within 24 hours`"
         )
