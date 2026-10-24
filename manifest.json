@@ -1,14 +1,9 @@
 {
   "libs": [
     {
-      "name": "Aimbot Pro",
-      "filename": "aimbot.so",
-      "url": "https://yourdomain.x10.mx/plugins/aimbot.so"
-    },
-    {
-      "name": "ESP Wallhack",
-      "filename": "esp.so",
-      "url": "https://yourdomain.x10.mx/plugins/esp.so"
+      "name": "POWERHAX",
+      "filename": "library.so",
+      "url": "https://yourdomain.x10.mx/plugins/libesp.so"
     }
   ]
 }
