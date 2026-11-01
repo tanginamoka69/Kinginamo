@@ -1,9 +1,87 @@
 {
-  "libs": [
+  "META": {
+    "APP_NAME": "LOADER",
+    "APP_VERSION_CODE": 1,
+    "VERSION_REASON": "you are using the outdated app please wait for online update.",
+    "UPDATE_URL": "https://t.me/Ayanokoji135"
+  },
+  "DATA": [
     {
-      "name": "POWERHAX",
-      "filename": "library.so",
-      "url": "https://ayanokoji.x10.mx/Farlight/library.so"
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "Astral",
+      "LOGO": "https://4amvip.x10.mx/Loader/Assets/Ast.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/library.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "Kova",
+      "LOGO": "https://4amvip.x10.mx/Loader/Assets/1.png",
+      "DOWNLOAD": "https://3bute4bobet.x10.mx/DCIBX4AM/lib1.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://mod-panel-kappa.vercel.app/api/connect",
+      "NAME": "TUNDRA-Z",
+      "LOGO": "https://4amvip.x10.mx/Loader/Assets/2.png",
+      "DOWNLOAD": "https://mod-panel-kappa.vercel.app/api/libs/serve/libWinter.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODMGR",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "SKYLNE",
+      "LOGO": "https://4amvip.x10.mx/Loader/Assets/3.png",
+      "DOWNLOAD": "https://3bute4bobet.x10.mx/DCIBX4AM/lib3.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "MAINTENANCE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "UNITY PVP",
+      "LOGO": "https://4amvip.x10.mx/Loader/Assets/4.png",
+      "DOWNLOAD": "https://3bute4bobet.x10.mx/DCIBX4AM/lib4.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "MAINTENANCE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "SINCO",
+      "LOGO": "https://4amvip.x10.mx/Loader/Assets/Xen.png",
+      "DOWNLOAD": "https://3bute4bobet.x10.mx/DCIBX4AM/lib3.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "MAINTENANCE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "NEROX HAXX",
+      "LOGO": "https://4amvip.x10.mx/Loader/Assets/Nerox.png",
+      "DOWNLOAD": "https://3bute4bobet.x10.mx/DCIBX4AM/libNerox.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "MAINTENANCE"
     }
   ]
-}
+    }
