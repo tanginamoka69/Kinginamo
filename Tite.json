@@ -1,7 +1,7 @@
 {
   "META": {
     "APP_NAME": "LOADER",
-    "APP_VERSION_CODE": 1,
+    "APP_VERSION_CODE": 2,
     "VERSION_REASON": "you are using the outdated app please wait for online update.",
     "UPDATE_URL": "https://t.me/Ayanokoji135"
   },
@@ -55,17 +55,6 @@
       "NAME": "DINZ MOD",
       "LOGO": "https://files.media2url.com/free/fbf450d75ab84e.png",
       "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/lib25.so",
-      "GAME": "com.garena.game.codm",
-      "ARCH": "64bit",
-      "KEY": "20001112",
-      "TYPE": "CODM",
-      "STATUS": "ACTIVE"
-    },
-    {
-      "URL": "https://ayanokoji.x10.mx/connect",
-      "NAME": "Owl hax",
-      "LOGO": "https://files.media2url.com/free/fbf450d75ab84e.png",
-      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/lib5.so",
       "GAME": "com.garena.game.codm",
       "ARCH": "64bit",
       "KEY": "20001112",
