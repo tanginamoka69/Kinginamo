@@ -8,17 +8,6 @@
   "DATA": [
     {
       "URL": "https://ayanokoji.x10.mx/connect",
-      "NAME": "y",
-      "LOGO": "https://files.media2url.com/free/fbf450d75ab84e.png",
-      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/lib1.so",
-      "GAME": "com.garena.game.codm",
-      "ARCH": "64bit",
-      "KEY": "20001112",
-      "TYPE": "CODM",
-      "STATUS": "ACTIVE"
-    },
-    {
-      "URL": "https://ayanokoji.x10.mx/connect",
       "NAME": "Cluddy extermium",
       "LOGO": "https://files.media2url.com/free/fbf450d75ab84e.png",
       "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libcluddyreb.so",
