@@ -93,6 +93,17 @@
       "KEY": "20001112",
       "TYPE": "CODM",
       "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "Nyxeon v7",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libnyxeonv77777777777777777.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
     }
   ]
 }
