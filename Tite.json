@@ -126,17 +126,6 @@
       "KEY": "20001112",
       "TYPE": "CODM",
       "STATUS": "ACTIVE"
-    },
-    {
-      "URL": "https://ayanokoji.x10.mx/connect",
-      "NAME": "zaniiiiii",
-      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
-      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libZAGlll.so",
-      "GAME": "com.garena.game.codm",
-      "ARCH": "64bit",
-      "KEY": "20001112",
-      "TYPE": "CODM",
-      "STATUS": "ACTIVE"
     }
   ]
 }
