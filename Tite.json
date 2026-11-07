@@ -8,6 +8,39 @@
   "DATA": [
     {
       "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "NYXEON",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libnyxeon.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "Nyxeon eclipse v10",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libnyxeonnnnnnnnnnnnn.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
+      "NAME": "Nyxeon v7",
+      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
+      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libnyxeonv77777777777777777.so",
+      "GAME": "com.garena.game.codm",
+      "ARCH": "64bit",
+      "KEY": "20001112",
+      "TYPE": "CODM",
+      "STATUS": "ACTIVE"
+    },
+    {
+      "URL": "https://ayanokoji.x10.mx/connect",
       "NAME": "Laurencee",
       "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
       "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libLAURENCREEEEEEEEEE.so",
@@ -52,17 +85,6 @@
     },
     {
       "URL": "https://ayanokoji.x10.mx/connect",
-      "NAME": "NYXEON",
-      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
-      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libnyxeon.so",
-      "GAME": "com.garena.game.codm",
-      "ARCH": "64bit",
-      "KEY": "20001112",
-      "TYPE": "CODM",
-      "STATUS": "ACTIVE"
-    },
-    {
-      "URL": "https://ayanokoji.x10.mx/connect",
       "NAME": "Tundra",
       "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
       "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libTundraaaaaa.so",
@@ -77,28 +99,6 @@
       "NAME": "HOSKE V10",
       "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
       "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libhoskeeeeeeeeee.so",
-      "GAME": "com.garena.game.codm",
-      "ARCH": "64bit",
-      "KEY": "20001112",
-      "TYPE": "CODM",
-      "STATUS": "ACTIVE"
-    },
-    {
-      "URL": "https://ayanokoji.x10.mx/connect",
-      "NAME": "Nyxeon eclipse v10",
-      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
-      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libnyxeonnnnnnnnnnnnn.so",
-      "GAME": "com.garena.game.codm",
-      "ARCH": "64bit",
-      "KEY": "20001112",
-      "TYPE": "CODM",
-      "STATUS": "ACTIVE"
-    },
-    {
-      "URL": "https://ayanokoji.x10.mx/connect",
-      "NAME": "Nyxeon v7",
-      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
-      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libnyxeonv77777777777777777.so",
       "GAME": "com.garena.game.codm",
       "ARCH": "64bit",
       "KEY": "20001112",
