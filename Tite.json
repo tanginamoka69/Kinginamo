@@ -5,17 +5,5 @@
     "VERSION_REASON": "you are using the outdated app please wait for online update.",
     "UPDATE_URL": "https://t.me/Ayanokoji135"
   },
-  "DATA": [
-    {
-      "URL": "https://ayanokoji.x10.mx/connect",
-      "NAME": "RAIHAX",
-      "LOGO": "https://ayanokoji.x10.mx/Farlight/1794013595740.png",
-      "DOWNLOAD": "https://ayanokoji.x10.mx/Farlight/libRaihax.so",
-      "GAME": "com.garena.game.codm",
-      "ARCH": "64bit",
-      "KEY": "20001112",
-      "TYPE": "CODM",
-      "STATUS": "ACTIVE"
-    }
-  ]
+  "DATA": []
 }
