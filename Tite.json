@@ -1,8 +1,8 @@
 {
   "META": {
     "APP_NAME": "LOADER",
-    "APP_VERSION_CODE": 1,
-    "VERSION_REASON": "you are using the outdated app please wait for online update.",
+    "APP_VERSION_CODE": 2,
+    "VERSION_REASON": "May bagong loader na, wait mo nalang update ko",
     "UPDATE_URL": "https://t.me/Ayanokoji135"
   },
   "DATA": []
